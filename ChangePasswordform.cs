@@ -30,7 +30,7 @@ namespace ATM_on_Finger__Password_processing
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //ExitHome eh = new ExitHome();
+            ExitHome eh = new ExitHome();
             eh.Show();
             this.Hide();
         }
